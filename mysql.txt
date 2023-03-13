@@ -1,0 +1,1 @@
+MySQL é um Sistema Gerenciador de Banco de Dados.
